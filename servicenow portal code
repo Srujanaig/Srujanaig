@@ -1,0 +1,17 @@
+[{
+"tagline":{
+	"table":"sp_instance",
+	"sys_id":"34fe3d96cb2002000f8d856634c9cf4",
+	"field":"title"
+},
+	"hero background":{
+		"table":"sp_container",
+		"sys_ib":"be98a8d2cb20020000f8d856634c9c63",
+		"filed":"background_image"
+	},
+	"readonly_variable_editor":"false"
+}]
+
+// CSS VARIABLES
+
+$grid-glutter-width: 15px !default;
